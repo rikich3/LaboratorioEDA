@@ -7,7 +7,7 @@ public class Persona{
     private double peso = 0;
     private double altura = 0;
     public Persona(){
-
+        
     }
     public Persona(String nombre, int edad, char sexo){
         this.nombre = nombre;
