@@ -1,4 +1,3 @@
-package lab1.lab4;
 import java.util.*;
 
 public class SolucionOptima {
